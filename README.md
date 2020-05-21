@@ -1,2 +1,2 @@
-# Electronic-Typing_Monkey
+# Electronic-Typing-Monkey
 Shot story/poem every hour 
