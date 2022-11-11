@@ -1,0 +1,76 @@
+
+{
+  "<start>":"<line1>%<line2>%<line3>%<line4>",
+  "<line2>":"<kind1>[3]|<kind2>[5]|<kind3>|<kind4>|<kind5>|<kind6>|<kind7>[0.1]|<kind8>",
+  "<line3>":"<kind1>[3]|<kind2>[5]|<kind3>|<kind4>|<kind5>|<kind6>|<kind7>[0.1]|<kind8>",
+  "<line4>":"<kind1>[3]|<kind2>[5]|<kind3>|<kind4>|<kind5>|<kind6>|<kind7>[0.1]|<kind8>[2]",
+  "<line1>":"Here is <ape>-No.`monkey_no`'s <line1lw> :",
+  
+  "<kind1>":"<sub-ppl> <vi-ppl>|<sub-animal> <phr-anm>|<sub-nl> <phr-nl>|<sub-nl> <p.p>|It <vi-afterit>|<adj-c> <sub-phr-nl>|<sub-ppl> <phr-ppl1>",
+  "<kind2>":"I am <p.p-ing>|<sub-ppl2> are <p.p-ing>|<sub-animal2> are <p.p-ing-anm>|<adj-c> <sub-nl2> <phr-nl2>|<sub-ppl2> <vt-intimate> <obj-vtinti-ppl>|I am <p.p-ed>|<sub-ppl2> are <p.p-ed>|<sub-animal2> are <p.p-ed-anm>|I <v-phr>[2]|<sub-ppl2> <v-phr>[2]|<sub-animal> <v-phr-anm>[2]|I am <doingsth>|<sub-ppl2> are <doingsth>",
+  "<kind3>":"<adv1>, <sub-ppl> <v-phr2>[2]|<adv1-anm>, <sub-animal> <v-phr-anm2>|<sub-ppl> <v-phr-beforeto> <to-phr>",
+  "<kind4>":"<sub-ppl> <vp-ppl> <adj-phr-ppl>|<sub-pet> <vp-pet> <adj-phr-pet>|<sub-nl4> <vp-nl> <adj-phr-nl>",
+  "<kind5>":"I am <adj-afterbe>|<sub-ppl2> are <adj-afterbe>|<sub-animal> are <adj-afterbe-anm>",
+  "<kind6>":"<part1> <part2>[2.5]|<part1> <part3>|<part1> <part2> <part3>[0.1]",
+  
+  "<kind7>":"",
+  "<kind8>":"A pair of sore legs|There's a hole in the world tonight|Dance, dance, dance!|Hi, darkness my old friend|Fifteen years, still friend|Sisyphus still pushing the big rock|Just let me go|Sweet dream torn down to red pieces|Boiled blood got cold|Alcohol saved me, or I committed suicide|Dance with me tonight|Passion flooding to the ground|It's never to late to say goodbye|What are we fighting for?|She's sitting on the bus|Rains drop on the window|Don't let there's hope in the world tomorrow|Hallelujah!|And she lit up the candle|Narrow street of cobblestone|Zombies walking under the dim streetlight, 9th Avenue|They have black eyes to look for the bright",
+  
+  "<sub-ppl>":"I|You|They|Kids|People|The old|The young|The islanders",
+  "<phr-ppl1>":"hate this world|love this world|want to leave|have a big dream|dream big|have no ambition|just want to be normal|got high|fall in love|drive along the Highway 66|rove across the country|cross the boundary|cross the line just to find answer on the other side|broke his heart|freak out",
+  "<vi-ppl>":"lie|die|believe|laugh|smile|cry|sob|sing|whisper|drink",
+  "<sub-animal>":"Birds|Cats|Dogs|Squirrels|Animals|Rabbits",
+  "<phr-anm>":"playing under the sun|sleeping in their places|chasing in the park|whispering about something",
+ "<sub-nl>":"The city|Skyscrapers|The forest|The lake|The river|The road|A sound|Photos",
+  "<phr-nl>":"extend to far away|in slience|whisper|lie under the cold rain",
+  "<p.p>":"whispering|faded away",
+  "<vi-afterit>":"rains|snows|hurts",
+  "<sub-phr-nl>":"flags waving|mist covering the mountains|cars lining up on the road",
+  
+  "<p.p-ing>":"crying|sobing|talking|laughing|forgetting|fighting",
+  "<sub-ppl2>":"You|They|People|Kids|The Adolescences|The men|The women|The cityzens",
+  "<sub-animal2>":"Sparrows|Parrots|Birds",
+  "<p.p-ing-anm>":"singing|flying|talking|hovering|standing on the trees",
+  "<adj-c>":"Red|Blue|Grey|Light green|Rosy",
+  "<sub-nl2>":"houses|posters|cars",
+  "<phr-nl2>":"stand still sliently|hinding in the night|rotate in my mind",
+  "<vt-intimate>":"kiss|touch|hug",
+  "<obj-vtinti-ppl>":"the lover|a stranger|a friend|their family|a huge doll bear|a large doll|rose with thorns",
+  "<p.p-ed>":"tired|wasted|hurt|betrayed|excited|encouraged|forgotten|ignored",
+  "<p.p-ed-anm>":"free|shot|caughted",
+  "<v-phr>":"look at the cellphone aimlessly|heading down the hill|wander around the cold city|cilmb up the old tree|standing on the ruins|play uptown funk in a bar|buy a rose from the old woman|give the roses to the girls|dispear in the alleys|travel on the indiffirent subway|listen to <s> in the headphone|went to a big party|wave the fists in the dark|lying on the hospital bed|masturbate in the room|jump across the abandoned raiiway|make graffiti on the freight cars",
+  "<v-phr-anm>":"watch the city in nights|observing human in their way|are wearing a big smile|hide in the dark city corners",
+  "<s>":"Lou Reed|Bod Dylan|John Lennon|The Eagles|The VU|Eason Chan",
+  "<doingsth>":"staring at the sky|lying on the ground|wearing the black suit|drinking on the streets|looking for someone to say hi|reading Akutagawa Ryunosuke in the cafe|eating ham-egg sanwich on the park bench|standing under the warm street lamp|facing the souls in the white wall|stabing the knifes but can't kill the beast",
+  
+  "<adv1>":"Sadly|With tear|Sliently|Happily|Insensitively|However|Anyway",
+  "<v-phr2>":"bury the photos of her|stay up all night drinking|jogged in the park|watch the red sun rise|watch the large moon go down|burn the photos of him|sit in the bar all night|lie on the coach|Sit on the rooftop|stand in the heavy rain",
+  "<adv1-anm>":"Lively|Joyfully|Cheerfully",
+  "<v-phr-anm2>":"rolling on the grass|jump from here to there",
+  "<v-phr-beforeto>":"run in the dog shit|steal a Lamborghini|borrow a heicopter",
+  "<to-phr>":"just to chase a dog|to get the chicks",
+  
+  "<vp-ppl>":"look at|listen to|smile at|dance to|hold",
+  "<adj-phr-ppl>":"the roses|the <c> <things>|the <c> <things>|the <c> <things>",
+  "<sub-pet>":"Cats|Dogges|Parrots|Hamsters[0.5]",
+  "<vp-pet>":"play with|pounce to|stare at|curiously look at|cautiously try to touch",
+  "<adj-phr-pet>":"a <c> ball of yarn|a <c> toy|a <c> ball",
+  "<sub-nl4>":"The street lights|The postal kiosks|Trash bins|Fire hydrant|Street trees|Fences|Walls|Bricks",
+  "<vp-nl>":"watch|seeing|look at",
+  "<adj-phr-nl>":"cars passed by|pedestrians passed by|clouds moving in the sky|dusts wrapped by the cold wind|gas defuse on the street",
+  "<c>":"red[2]|yello|blue|white|pink|purple",
+  "<things>":"lamp|card|flower|jar|pen",
+  
+  "<adj-afterbe>":"happy|sad|numb|great|bored|boring|interesting|bad|crazy|lazy|dead inside|stupid|scared|dying|dead",
+  "<adj-afterbe-anm>":"cute|adorable|dying|dead",
+  
+  "<part1>":"I am <1> that|<sub-ppl2> are <1> that|It is <2> that",
+  "<part2>":"he is gay|she is lesbian|the world is flat|she never came back|he is gone|he broke up with her|she cheated on him|he gave she rose as gift|she rejected his proposal|he leave the city alone|she still stay in the small town|I am in the Hotel California[0.5]|you did'nt take all the weed|they are not high yet|he held his tear back|they can't help crying|stars still shine|this winter is not cold",
+  "<part3>":"it's fine|it's OK, I guess|it's not ok",
+  "<1>":"glad|happy|sad|sorry",
+  "<2>":"sad|strange|funny|interesting|ironic[0.5]",
+  
+  "<line1lw>":"story[50]|poem[49]|monkey kingdom ",
+  "<ape>":"monkey|gorilla|ape|baboon|orangutan|chimpanzee"
+
+}
